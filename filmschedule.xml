@@ -1,0 +1,8927 @@
+<admitOne>
+<sites>
+<site code="SSVC01">
+<name>Phoenix Falklands</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133785">
+<scheduleDate>20200310</scheduleDate>
+<time>20200310193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133564">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133565">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52225</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133566">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133567">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133568">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133569">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133570">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133786">
+<scheduleDate>20200316</scheduleDate>
+<time>20200316193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52225</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133572">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133573">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133574">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54919</eventCode>
+<SSVCCode/>
+<runTime>143</runTime>
+<allocated>0</allocated>
+<type>BOLLYWOOD SCREENING</type>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133575">
+<scheduleDate>20200320</scheduleDate>
+<time>20200320193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133576">
+<scheduleDate>20200321</scheduleDate>
+<time>20200321150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133577">
+<scheduleDate>20200321</scheduleDate>
+<time>20200321193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133578">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133579">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133787">
+<scheduleDate>20200323</scheduleDate>
+<time>20200323193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54119</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133581">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133582">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133748">
+<scheduleDate>20200326</scheduleDate>
+<time>20200326193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133584">
+<scheduleDate>20200327</scheduleDate>
+<time>20200327193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133774">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52225</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133586">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133587">
+<scheduleDate>20200329</scheduleDate>
+<time>20200329150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133588">
+<scheduleDate>20200329</scheduleDate>
+<time>20200329193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133589">
+<scheduleDate>20200330</scheduleDate>
+<time>20200330193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54119</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133590">
+<scheduleDate>20200331</scheduleDate>
+<time>20200331193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133591">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133592">
+<scheduleDate>20200402</scheduleDate>
+<time>20200402193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52232</eventCode>
+<SSVCCode/>
+<runTime>127</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>500</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="STAFFFLK">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC02">
+<name>Astra Akrotiri</name>
+<currencyName>Euro</currencyName>
+<currencyCode>EUR</currencyCode>
+<performances>
+<performance performanceCode="133507">
+<scheduleDate>20200310</scheduleDate>
+<time>20200310183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53434</eventCode>
+<SSVCCode/>
+<runTime>83</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133508">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54119</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133509">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133510">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314130000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133511">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133672">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315133000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>48437</eventCode>
+<SSVCCode/>
+<runTime>99</runTime>
+<allocated>0</allocated>
+<type>
+<![CDATA[ SENSORY SCREENING - €4 ]]>
+</type>
+<tickets>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURAD2D4">
+<price>400</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133512">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133513">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133514">
+<scheduleDate>20200320</scheduleDate>
+<time>20200320200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133515">
+<scheduleDate>20200321</scheduleDate>
+<time>20200321130000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133516">
+<scheduleDate>20200321</scheduleDate>
+<time>20200321183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133755">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322133000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>33199</eventCode>
+<SSVCCode/>
+<runTime>104</runTime>
+<allocated>0</allocated>
+<type>SPECIAL SCREENING</type>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133517">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133518">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133519">
+<scheduleDate>20200327</scheduleDate>
+<time>20200327200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133773">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328130000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133521">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133522">
+<scheduleDate>20200331</scheduleDate>
+<time>20200331183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133523">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC03">
+<name>Key Dhekelia</name>
+<currencyName>Euro</currencyName>
+<currencyCode>EUR</currencyCode>
+<performances>
+<performance performanceCode="133527">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52225</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133528">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133529">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315110000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133530">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133531">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54919</eventCode>
+<SSVCCode/>
+<runTime>143</runTime>
+<allocated>0</allocated>
+<type>BOLLYWOOD SCREENING</type>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133532">
+<scheduleDate>20200320</scheduleDate>
+<time>20200320193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133533">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322110000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133534">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133535">
+<scheduleDate>20200327</scheduleDate>
+<time>20200327193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133536">
+<scheduleDate>20200329</scheduleDate>
+<time>20200329110000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>48437</eventCode>
+<SSVCCode/>
+<runTime>99</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133537">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401183000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC04">
+<name>Mercury Ayios Nikolaos</name>
+<currencyName>Euro</currencyName>
+<currencyCode>EUR</currencyCode>
+<performances>
+<performance performanceCode="133541">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54119</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133542">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133543">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>48437</eventCode>
+<SSVCCode/>
+<runTime>99</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133544">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133667">
+<scheduleDate>20200320</scheduleDate>
+<time>20200320193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>CLOSED</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+</performance>
+<performance performanceCode="133669">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133670">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133547">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133548">
+<scheduleDate>20200327</scheduleDate>
+<time>20200327193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133549">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328150000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133550">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC06">
+<name>Harbour Lights Falklands</name>
+<currencyName>Euro</currencyName>
+<currencyCode>EUR</currencyCode>
+<performances>
+<performance performanceCode="133681">
+<scheduleDate>20200310</scheduleDate>
+<time>20200310200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>51385</eventCode>
+<SSVCCode/>
+<runTime>132</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133682">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311133000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53275</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133683">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311173000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53274</eventCode>
+<SSVCCode/>
+<runTime>125</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133684">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53434</eventCode>
+<SSVCCode/>
+<runTime>83</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133685">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312173000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53275</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133686">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54920</eventCode>
+<SSVCCode/>
+<runTime>97</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133788">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313174500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133688">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313200000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133689">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314120000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53275</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133690">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314141500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52232</eventCode>
+<SSVCCode/>
+<runTime>127</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133789">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314164500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133692">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53592</eventCode>
+<SSVCCode/>
+<runTime>104</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133693">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315120000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52232</eventCode>
+<SSVCCode/>
+<runTime>127</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133694">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315144500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53592</eventCode>
+<SSVCCode/>
+<runTime>104</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133695">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315170000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133790">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133697">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317180000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52232</eventCode>
+<SSVCCode/>
+<runTime>127</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133698">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317203000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133791">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318180000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133700">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318201500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53592</eventCode>
+<SSVCCode/>
+<runTime>104</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133701">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319173000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53275</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133702">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319194500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52232</eventCode>
+<SSVCCode/>
+<runTime>127</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="EURAD2D">
+<price>600</price>
+</ticket>
+<ticket ticketCode="EUADUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUFTSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUROS2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EURFAM2D">
+<price>1600</price>
+</ticket>
+<ticket ticketCode="EUCHUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EURCH2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="EUFTUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSUNCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="EUOSSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC07">
+<name>Wessex Aldergrove</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133487">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133488">
+<scheduleDate>20200313</scheduleDate>
+<time>20200313190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133489">
+<scheduleDate>20200314</scheduleDate>
+<time>20200314190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53565</eventCode>
+<SSVCCode/>
+<runTime>113</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133490">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315143000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133491">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133492">
+<scheduleDate>20200320</scheduleDate>
+<time>20200320190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133493">
+<scheduleDate>20200321</scheduleDate>
+<time>20200321190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133776">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322143000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52273</eventCode>
+<SSVCCode/>
+<runTime>101</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133495">
+<scheduleDate>20200326</scheduleDate>
+<time>20200326190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133496">
+<scheduleDate>20200327</scheduleDate>
+<time>20200327190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133497">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52230</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133498">
+<scheduleDate>20200329</scheduleDate>
+<time>20200329143000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133499">
+<scheduleDate>20200402</scheduleDate>
+<time>20200402190000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>250</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>850</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC09">
+<name>Globe Minley</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133657">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133658">
+<scheduleDate>20200315</scheduleDate>
+<time>20200315193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133659">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133660">
+<scheduleDate>20200322</scheduleDate>
+<time>20200322193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>55005</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133661">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>55005</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133662">
+<scheduleDate>20200329</scheduleDate>
+<time>20200329193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133663">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC11">
+<name>Forum Blandford</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133597">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311180000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133598">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54123</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133599">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133600">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133610">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133603">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325180000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133605">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328130000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52230</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133606">
+<scheduleDate>20200330</scheduleDate>
+<time>20200330193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133607">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133608">
+<scheduleDate>20200402</scheduleDate>
+<time>20200402180000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52230</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC12">
+<name>Astra St Athan</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133642">
+<scheduleDate>20200310</scheduleDate>
+<time>20200310191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133643">
+<scheduleDate>20200311</scheduleDate>
+<time>20200311191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53276</eventCode>
+<SSVCCode/>
+<runTime>124</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133644">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133645">
+<scheduleDate>20200318</scheduleDate>
+<time>20200318191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133647">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133648">
+<scheduleDate>20200325</scheduleDate>
+<time>20200325191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52228</eventCode>
+<SSVCCode/>
+<runTime>100</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133649">
+<scheduleDate>20200328</scheduleDate>
+<time>20200328100000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52230</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133650">
+<scheduleDate>20200331</scheduleDate>
+<time>20200331191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133651">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401191500</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC13">
+<name>Astra St Mawgan</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133629">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52225</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133631">
+<scheduleDate>20200316</scheduleDate>
+<time>20200316193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133782">
+<scheduleDate>20200321</scheduleDate>
+<time>20200321140000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52233</eventCode>
+<SSVCCode/>
+<runTime>107</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133633">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133635">
+<scheduleDate>20200331</scheduleDate>
+<time>20200331193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52230</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133636">
+<scheduleDate>20200401</scheduleDate>
+<time>20200401193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+<site code="SSVC14">
+<name>JITG Chicksands</name>
+<currencyName>Pounds</currencyName>
+<currencyCode>GBP</currencyCode>
+<performances>
+<performance performanceCode="133760">
+<scheduleDate>20200310</scheduleDate>
+<time>20200310193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54119</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133761">
+<scheduleDate>20200312</scheduleDate>
+<time>20200312193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54119</eventCode>
+<SSVCCode/>
+<runTime>86</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133762">
+<scheduleDate>20200317</scheduleDate>
+<time>20200317193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53592</eventCode>
+<SSVCCode/>
+<runTime>104</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133763">
+<scheduleDate>20200319</scheduleDate>
+<time>20200319193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53592</eventCode>
+<SSVCCode/>
+<runTime>104</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133764">
+<scheduleDate>20200324</scheduleDate>
+<time>20200324193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133765">
+<scheduleDate>20200326</scheduleDate>
+<time>20200326193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>53640</eventCode>
+<SSVCCode/>
+<runTime>109</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133766">
+<scheduleDate>20200329</scheduleDate>
+<time>20200329133000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>52230</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133767">
+<scheduleDate>20200331</scheduleDate>
+<time>20200331193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+<performance performanceCode="133768">
+<scheduleDate>20200402</scheduleDate>
+<time>20200402193000</time>
+<hallCode>01</hallCode>
+<hallName>Screen 1</hallName>
+<eventCode>54516</eventCode>
+<SSVCCode/>
+<runTime>0</runTime>
+<allocated>0</allocated>
+<type/>
+<tickets>
+<ticket ticketCode="GBADUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBAD2D">
+<price>400</price>
+</ticket>
+<ticket ticketCode="GBFTUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOS2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBADSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBCH2D">
+<price>300</price>
+</ticket>
+<ticket ticketCode="GBCHUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSUCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBOSSSCO2D">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFAM2D">
+<price>1100</price>
+</ticket>
+<ticket ticketCode="CEA">
+<price>0</price>
+</ticket>
+<ticket ticketCode="GBFTSSCO2D">
+<price>0</price>
+</ticket>
+</tickets>
+</performance>
+</performances>
+</site>
+</sites>
+<events>
+<event eventCode="54919">
+<name>BAAGHI 3</name>
+<length>143</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>291446</rentrakCode>
+<synopsis>
+<![CDATA[
+Ronnie and Vikram are brothers who share an unbreakable bond. Their journey begins when a certain turn in events, leads Vikram to travel. On this trip, he gets kidnapped by people. Ronnie witnesses his brother getting beaten and kidnapped, Ronnie will do whatever it takes to destroy anyone and anything that stands in the way of Vikram's safety. Ronnie goes on a rampage of destruction to see his brother safe, even if it means that he independently has to take on an entire country.
+]]>
+</synopsis>
+<director>Ahmed Khan</director>
+<writer>Sajid Nadiadwala, Farhad Samji</writer>
+<releaseDate>19700101</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=QzDujMzfoU</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/54919.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/54919.jpg
+</imageStill>
+<cast>
+<member>
+<actor>Shraddha Kapoor</actor>
+</member>
+<member>
+<actor>Tiger Shroff</actor>
+</member>
+<member>
+<actor>Riteish Deshmukh</actor>
+</member>
+</cast>
+</event>
+<event eventCode="33199">
+<name>THE GREATEST SHOWMAN</name>
+<length>104</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>177965</rentrakCode>
+<synopsis>
+<![CDATA[
+'The Greatest Showman' is a bold and original musical that celebrates the birth of show business and the sense of wonder we feel when dreams come to life.
+]]>
+</synopsis>
+<director>Michael Gracey</director>
+<writer>Jenny Bicks, Bill Condon, Jenny Bicks</writer>
+<releaseDate>20200301</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=AXCTMGYUg9A</youTubeLink>
+<certificate>PG</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/33199.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/33199.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/33199.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Hugh Jackman</actor>
+</member>
+<member>
+<actor>Rebecca Ferguson</actor>
+</member>
+<member>
+<actor>Zac Efron</actor>
+</member>
+</cast>
+</event>
+<event eventCode="45913">
+<name>THE INFORMER</name>
+<length>113</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>240593</rentrakCode>
+<synopsis>
+<![CDATA[
+Reformed criminal and former special ops soldier Pete Koslow, in order to free himself from jail and return to his wife and daughter, has been working undercover for crooked FBI handlers to infiltrate the Polish mob's drug trade in New York.
+]]>
+</synopsis>
+<director>Andrea Di Stefano</director>
+<writer>Matt Cook, Andrea Di Stefano</writer>
+<releaseDate>20190830</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=jUakWaEpCmY</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>1</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/45913.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/45913.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/45913.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Rosamund Pike</actor>
+</member>
+<member>
+<actor>Ana de Armas</actor>
+</member>
+<member>
+<actor>Joel Kinnaman</actor>
+</member>
+</cast>
+</event>
+<event eventCode="44870">
+<name>
+<![CDATA[ FISHERMAN'S FRIENDS ]]>
+</name>
+<length>112</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>261797</rentrakCode>
+<synopsis>
+<![CDATA[
+A fast-living, cynical London music executive (Daniel Mays) heads to a remote Cornish village on a stag weekend where he's pranked by his boss (Noel Clarke) into trying to sign a group of shanty singing fishermen (led by James Purefoy).
+]]>
+</synopsis>
+<director>Chris Foggin</director>
+<writer>Piers Ashworth, Meg Leonard</writer>
+<releaseDate>20190315</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=dTFFBynGtUc</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>1</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/44870.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/44870.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/44870.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Tuppence Middleton</actor>
+</member>
+<member>
+<actor>James Purefoy</actor>
+</member>
+<member>
+<actor>Christian Brassington</actor>
+</member>
+</cast>
+</event>
+<event eventCode="45919">
+<name>PLAYMOBIL</name>
+<length>99</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>206855</rentrakCode>
+<synopsis>
+When her younger brother Charlie (Gabriel Bateman) unexpectedly disappears into the magical, animated universe of Playmobil, unprepared Marla (Anya Taylor-Joy) must go on a quest of a lifetime to bring him home.
+</synopsis>
+<director>Lino DiSalvo</director>
+<writer>Blaise Hemingway, Greg Erb</writer>
+<releaseDate>20190809</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=K-C1ys02wlU</youTubeLink>
+<certificate>U</certificate>
+<comingSoon>1</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/45919.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/45919.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/45919.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Anya Taylor-Joy</actor>
+</member>
+<member>
+<actor>Daniel Radcliffe</actor>
+</member>
+<member>
+<actor>Adam Lambert</actor>
+</member>
+</cast>
+</event>
+<event eventCode="46902">
+<name>ANGRY BIRDS 2</name>
+<length>97</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>229789</rentrakCode>
+<synopsis>
+<![CDATA[
+When a new threat emerges that puts both Bird and Pig Island in danger, Red, Chuck, Bomb, and Mighty Eagle recruit Chuck's sister Silver and team up with pigs Leonard, his assistant Courtney, and techpig Garry to form an unlikely superteam.
+]]>
+</synopsis>
+<director>Thurop Van Orman, John Rice</director>
+<writer>Peter Ackerman</writer>
+<releaseDate>20190802</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=RDj8Y2K0ODA</youTubeLink>
+<certificate>U</certificate>
+<comingSoon>1</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/46902.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/46902.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/46902.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Awkwafina</actor>
+</member>
+<member>
+<actor>Peter Dinklage</actor>
+</member>
+<member>
+<actor>Dove Cameron</actor>
+</member>
+</cast>
+</event>
+<event eventCode="48009">
+<name>STAR WARS: THE RISE OF SKYWALKER</name>
+<length>142</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>229590</rentrakCode>
+<synopsis>
+<![CDATA[
+No one's ever really gone... Rey's journey continues and the Skywalker saga concludes in 'Star Wars: The Rise Of Skywalker'.
+]]>
+</synopsis>
+<director>J.J. Abrams</director>
+<writer/>
+<releaseDate>20191219</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=8Qn_spdM5Zg</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>1</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/48009.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/48009.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/48009.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Daisy Ridley</actor>
+</member>
+<member>
+<actor>Adam Driver</actor>
+</member>
+<member>
+<actor>John Boyega</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53565">
+<name>MILITARY WIVES</name>
+<length>113</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>273757</rentrakCode>
+<synopsis>
+With their partners away serving in Afghanistan, a group of women on the home front form a choir and quickly find themselves at the center of a media sensation and global movement.
+</synopsis>
+<director>Peter Cattaneo</director>
+<writer>Rosanne Flynn (Writer), Rachel Tunnard</writer>
+<releaseDate>20200306</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=7FR5TJwXft8</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53565.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53565.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/53565.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Teresa Mahoney</actor>
+</member>
+<member>
+<actor>Kristin Scott Thomas</actor>
+</member>
+<member>
+<actor>Sharon Horgan</actor>
+</member>
+</cast>
+</event>
+<event eventCode="52225">
+<name>BIRDS OF PREY</name>
+<length>109</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>234840</rentrakCode>
+<synopsis>
+After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.
+</synopsis>
+<director/>
+<writer/>
+<releaseDate>20200207</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=s1l914WkO6Y</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/52225.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/52225.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/52225.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Margot Robbie</actor>
+</member>
+<member>
+<actor>Mary Elizabeth Winstead</actor>
+</member>
+<member>
+<actor>Jurnee Smollett-Bell</actor>
+</member>
+</cast>
+</event>
+<event eventCode="52228">
+<name>MY SPY</name>
+<length>100</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>270786</rentrakCode>
+<synopsis>
+<![CDATA[
+'My Spy' follows JJ a hardened CIA operative (Dave Bautista) who has been demoted and finds himself at the mercy of a precocious 9-year-old girl, named Sophie (Chloe Coleman) where he has been sent undercover begrudgingly to surveil her family.
+]]>
+</synopsis>
+<director>Peter Segal</director>
+<writer>Erich Hoeber, Jon Hoeber</writer>
+<releaseDate>20200306</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=pfAhQSz-j_o</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/52228.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/52228.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/52228.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Dave Bautista</actor>
+</member>
+<member>
+<actor>Kristen Schaal</actor>
+</member>
+<member>
+<actor>Ken Jeong</actor>
+</member>
+</cast>
+</event>
+<event eventCode="48437">
+<name>SONIC THE HEDGEHOG</name>
+<length>99</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>249554</rentrakCode>
+<synopsis>
+In this live-action adventure comedy, Sonic and his new best friend Tom (James Marsden) team up to defend the planet from the evil genius Dr. Robotnik (Jim Carrey) and his plans for world domination.
+</synopsis>
+<director>Jeff Fowler</director>
+<writer>Patrick Casey, Josh Miller</writer>
+<releaseDate>20200214</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=szby7ZHLnkA</youTubeLink>
+<certificate>PG</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/48437.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/48437.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/48437.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Jim Carrey</actor>
+</member>
+<member>
+<actor>James Marsden</actor>
+</member>
+<member>
+<actor>Neal McDonough</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53275">
+<name>THE CALL OF THE WILD</name>
+<length>100</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>240712</rentrakCode>
+<synopsis>
+<![CDATA[
+'The Call Of The Wild' vividly brings to the screen the story of Buck, a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Alaskan Yukon.
+]]>
+</synopsis>
+<director>Chris Sanders</director>
+<writer>Michael Green, Jack London (characters)</writer>
+<releaseDate>20200220</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=</youTubeLink>
+<certificate>PG</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53275.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53275.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/53275.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Karen Gillan</actor>
+</member>
+<member>
+<actor>Harrison Ford</actor>
+</member>
+<member>
+<actor>Bradley Whitford |</actor>
+</member>
+</cast>
+</event>
+<event eventCode="52232">
+<name>DARK WATERS</name>
+<length>127</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>271407</rentrakCode>
+<synopsis>
+<![CDATA[
+The film is inspired by the shocking true story of a tenacious attorney (Ruffalo) who uncovers a dark secret that connects a growing number of unexplained deaths, due to one of the world's largest corporations.
+]]>
+</synopsis>
+<director>Todd Haynes</director>
+<writer>Matthew Michael Carnahan, Mario Correa</writer>
+<releaseDate>20200228</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=jYbNONsH2ck</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/52232.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/52232.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/52232.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Anne Hathaway</actor>
+</member>
+<member>
+<actor>William Jackson Harper</actor>
+</member>
+<member>
+<actor>Bill Pullman</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53276">
+<name>THE INVISIBLE MAN</name>
+<length>124</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>251894</rentrakCode>
+<synopsis>
+Trapped in a violent, controlling relationship with a wealthy and brilliant scientist, Cecilia Kass (Moss) escapes in the dead of night and disappears into hiding, aided by her sister, their childhood friend and his teenage daughter.
+</synopsis>
+<director>Leigh Whannell</director>
+<writer>H.G. Wells (novel), Leigh Whannell</writer>
+<releaseDate>20200228</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=dSBsNeYqh-k</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53276.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53276.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/53276.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Elisabeth Moss</actor>
+</member>
+<member>
+<actor>Oliver Jackson-Cohen</actor>
+</member>
+<member>
+<actor>Storm Reid</actor>
+</member>
+</cast>
+</event>
+<event eventCode="52233">
+<name>ONWARD</name>
+<length>107</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>192487</rentrakCode>
+<synopsis>
+<![CDATA[
+Set in a suburban fantasy world, Disney Pixar's 'Onward' introduces two teenage elf brothers who embark on an extraordinary quest to discover if there is still a little magic left out there.
+]]>
+</synopsis>
+<director/>
+<writer/>
+<releaseDate>20200306</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=ZKE8b_BEEHI</youTubeLink>
+<certificate>U</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/52233.jpg
+</imageSmall>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/52233.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Tom Holland</actor>
+</member>
+<member>
+<actor>Chris Pratt</actor>
+</member>
+<member>
+<actor>Octavia Spencer</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53434">
+<name>LIKE A BOSS</name>
+<length>83</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>256381</rentrakCode>
+<synopsis>
+<![CDATA[
+Best friends Mia and Mel (Tiffany Haddish and Rose Byrne) are living their best lives running their own cosmetics company they've built from the ground up. Unfortunately, they're in over their heads financially.
+]]>
+</synopsis>
+<director>Miguel Arteta</director>
+<writer>Adam Cole-Kelly (screenplay by), Adam Cole-Kelly</writer>
+<releaseDate>20200220</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=9ESkyRFEso4</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53434.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53434.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/53434.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Rose Byrne</actor>
+</member>
+<member>
+<actor>Salma Hayek</actor>
+</member>
+<member>
+<actor>Tiffany Haddish</actor>
+</member>
+</cast>
+</event>
+<event eventCode="52230">
+<name>MULAN</name>
+<length>0</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>192485</rentrakCode>
+<synopsis>
+<![CDATA[
+A young Chinese maiden disguises herself as a male warrior in order to save her father. A live-action feature film based on Disney's 'Mulan.'
+]]>
+</synopsis>
+<director>Niki Caro</director>
+<writer/>
+<releaseDate>20200327</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=3uVtrbgR09A</youTubeLink>
+<certificate>TBC</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/52230.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/52230.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/52230.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Yifei Liu</actor>
+</member>
+<member>
+<actor>Donnie Yen</actor>
+</member>
+<member>
+<actor>Jet Li</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53592">
+<name>GREED</name>
+<length>104</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>284703</rentrakCode>
+<synopsis>
+Greed is the fictional story of a retail billionaire, set in the glamorous and celebrity-filled world of luxury fashion, which is centered around the build up to a spectacular 60th birthday party in an exclusive hotel on the Greek island of Mykonos.
+</synopsis>
+<director>Michael Winterbottom</director>
+<writer>Michael Winterbottom (screenplay), Sean Gray (addi</writer>
+<releaseDate>20200221</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=7NNZHlIoA4U</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53592.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53592.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/53592.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Isla Fisher</actor>
+</member>
+<member>
+<actor>Asa Butterfield</actor>
+</member>
+<member>
+<actor>Shirley Henderson</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53640">
+<name>BLOODSHOT</name>
+<length>109</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>259793</rentrakCode>
+<synopsis>
+<![CDATA[
+Based on the bestselling comic book, Vin Diesel stars as Ray Garrison, a soldier recently killed in action and brought back to life as the superhero Bloodshot by the RST corporation. With an army of nanotechnology in his veins, he’s an unstoppable force –stronger than ever and able to heal instantly. But in controlling his body, the company has sway over his mind and memories, too. Now, Ray doesn’t know what’s real and what’s not – but he’s on a mission to find out.
+]]>
+</synopsis>
+<director>David S. F. Wilson</director>
+<writer>Jeff Wadlow and Eric Heisserer</writer>
+<releaseDate>20200221</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=vOUVVDWdXbo</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53640.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53640.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/53640.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Vin Diesel</actor>
+</member>
+<member>
+<actor>Eiza Gonzalez</actor>
+</member>
+<member>
+<actor>Sam Heughan</actor>
+</member>
+<member>
+<actor>Guy Pearce</actor>
+</member>
+</cast>
+</event>
+<event eventCode="53274">
+<name>EMMA</name>
+<length>125</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>283328</rentrakCode>
+<synopsis>
+<![CDATA[
+Jane Austen's beloved comedy about finding your equal and earning your happy ending is reimagined in this delicious new film adaptation of 'Emma'. Handsome, clever, and rich, Emma Woodhouse is a restless queen bee without rivals in her sleepy little town.
+]]>
+</synopsis>
+<director>Autumn de Wilde</director>
+<writer>Jane Austen (novel), Eleanor Catton</writer>
+<releaseDate>20200213</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=fmcJEeeT-us</youTubeLink>
+<certificate>U</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/53274.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/53274.jpg
+</imageStill>
+<cast>
+<member>
+<actor>Anya Taylor-Joy</actor>
+</member>
+<member>
+<actor>Gemma Whelan</actor>
+</member>
+<member>
+<actor>
+<![CDATA[ Josh O'Connor ]]>
+</actor>
+</member>
+</cast>
+</event>
+<event eventCode="54119">
+<name>DOWNHILL</name>
+<length>86</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>291153</rentrakCode>
+<synopsis>
+Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.
+</synopsis>
+<director>Nat Faxon, Jim Rash</director>
+<writer/>
+<releaseDate>20200228</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=AY5SrKf_2ic</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/54119.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/54119.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/54119.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Will Ferrell</actor>
+</member>
+<member>
+<actor>Miranda Otto</actor>
+</member>
+<member>
+<actor>Julia Louis-Dreyfus</actor>
+</member>
+</cast>
+</event>
+<event eventCode="51385">
+<name>KINKY BOOTS - THE MUSICAL</name>
+<length>132</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>279063</rentrakCode>
+<synopsis>
+<![CDATA[
+Kinky Boots The Musical, filmed live at the Adelphi Theatre in the heart of London's West End, is strutting onto the big screen! With songs from Grammy and Tony award winning pop icon Cindy Lauper. Inspired by true events, this huge-hearted hit tells the story of two people with nothing in common - or so they think. This unmissable musical theatre event celebrates a joyous story of British grit transforming into a high-heeled hit as it takes you from the factory floor of Northampton to the glamorous catwalks of Milan!
+]]>
+</synopsis>
+<director>Jerry Mitchell</director>
+<writer>Harvey Fierstein</writer>
+<releaseDate>20200204</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=8jnECAOdhvs</youTubeLink>
+<certificate>12A</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/51385.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/51385.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/51385.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Amy Lennox</actor>
+</member>
+<member>
+<actor>Killian Donnelly</actor>
+</member>
+</cast>
+</event>
+<event eventCode="54516">
+<name>A QUIET PLACE - PART II</name>
+<length>0</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>262271</rentrakCode>
+<synopsis>
+Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path
+</synopsis>
+<director>John Krasinski</director>
+<writer/>
+<releaseDate>20200320</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=XEMwSdne6UE</youTubeLink>
+<certificate>TBC</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/54516.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/54516.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/54516.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Emily Blunt</actor>
+</member>
+<member>
+<actor>Cillian Murphy</actor>
+</member>
+<member>
+<actor>Noah Jupe</actor>
+</member>
+</cast>
+</event>
+<event eventCode="54123">
+<name>
+<![CDATA[ BLUMHOUSE'S FANTASY ISLAND ]]>
+</name>
+<length>109</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>268885</rentrakCode>
+<synopsis>
+<![CDATA[
+The enigmatic Mr. Roarke makes the secret dreams of his lucky guests come true at a luxurious but remote tropical resort. But when the fantasies turn into nightmares, the guests have to solve the island's mystery in order to escape with their lives.
+]]>
+</synopsis>
+<director>Jeff Wadlow</director>
+<writer>
+<![CDATA[ Jeff Wadlow & Chris Roach & Jillian Jacobs ]]>
+</writer>
+<releaseDate>20200306</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=a6O30nJ02PU</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/54123.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/54123.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/54123.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Maggie Q</actor>
+</member>
+<member>
+<actor>
+<![CDATA[ Michael Peña ]]>
+</actor>
+</member>
+<member>
+<actor>Lucy Hale</actor>
+</member>
+</cast>
+</event>
+<event eventCode="54920">
+<name>THE LOST BOYS (4K)</name>
+<length>97</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode/>
+<synopsis>
+<![CDATA[
+Sleep all day. Party all night. Never grow old. Never die. It's fun to be a vampire.
+]]>
+</synopsis>
+<director>Joel Schumacher</director>
+<writer/>
+<releaseDate>19700101</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/54920.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/54920.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/54920.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Corey Haim</actor>
+</member>
+<member>
+<actor>Dianne Wiest</actor>
+</member>
+<member>
+<actor>Jason Patric</actor>
+</member>
+</cast>
+</event>
+<event eventCode="55005">
+<name>BRAHMS: THE BOY II</name>
+<length>86</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>274533</rentrakCode>
+<synopsis>
+Unaware of the terrifying history of Heelshire Mansion, a young family moves into a guest house on the estate where their young son soon makes an unsettling new friend, an eerily life-like doll he calls Brahms.
+</synopsis>
+<director>William Brent Bell</director>
+<writer/>
+<releaseDate>20200221</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=A6caADGf8mw</youTubeLink>
+<certificate>15</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/55005.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/55005.jpg
+</imageStill>
+<cast>
+<member>
+<actor>Katie Holmes</actor>
+</member>
+<member>
+<actor>Owain Yeoman</actor>
+</member>
+<member>
+<actor>Ralph Ineson</actor>
+</member>
+</cast>
+</event>
+<event eventCode="52273">
+<name>DOLITTLE</name>
+<length>101</length>
+<advertTime>0</advertTime>
+<leadupTime>0</leadupTime>
+<trailerTime>0</trailerTime>
+<cleanupTime>0</cleanupTime>
+<fls>0</fls>
+<rentrakCode>227489</rentrakCode>
+<synopsis>
+<![CDATA[
+Robert Downey Jr. electrifies one of literature's most enduring characters in a vivid reimagining of the classic tale of the man who could talk to animals: Dolittle.
+]]>
+</synopsis>
+<director>Stephen Gaghan</director>
+<writer>Stephen Gaghan, Chris McKay</writer>
+<releaseDate>20200207</releaseDate>
+<youTubeLink>https://www.youtube.com/watch?v=BUzfyh592YU</youTubeLink>
+<certificate>PG</certificate>
+<comingSoon>0</comingSoon>
+<imageSmall>
+http://admit1.ssvc.com:8585/filmimages/small/52273.jpg
+</imageSmall>
+<imageStill>
+http://admit1.ssvc.com:8585/filmimages/stills/52273.jpg
+</imageStill>
+<imageLarge>
+http://admit1.ssvc.com:8585/filmimages/large/52273.jpg
+</imageLarge>
+<cast>
+<member>
+<actor>Robert Downey Jr.</actor>
+</member>
+<member>
+<actor>Tom Holland</actor>
+</member>
+<member>
+<actor>Michael Sheen</actor>
+</member>
+</cast>
+</event>
+</events>
+<ticketTypes>
+<ticketType ticketCode="GBADUCO2D">
+<name>Unit AD Comp</name>
+</ticketType>
+<ticketType ticketCode="GBAD2D">
+<name>Adult</name>
+</ticketType>
+<ticketType ticketCode="EURAD2D">
+<name>Adult</name>
+</ticketType>
+<ticketType ticketCode="GBFTUCO2D">
+<name>Unit FT Comp</name>
+</ticketType>
+<ticketType ticketCode="GBOS2D">
+<name>Senior/Student</name>
+</ticketType>
+<ticketType ticketCode="GBCHSSCO2D">
+<name>BFBS CH Comp</name>
+</ticketType>
+<ticketType ticketCode="EUADUNCO2D">
+<name>Unit AD Comp</name>
+</ticketType>
+<ticketType ticketCode="EUFTSSCO2D">
+<name>BFBS FT Comp</name>
+</ticketType>
+<ticketType ticketCode="EUROS2D">
+<name>Senior/Student</name>
+</ticketType>
+<ticketType ticketCode="GBADSSCO2D">
+<name>BFBS AD Comp</name>
+</ticketType>
+<ticketType ticketCode="GBCH2D">
+<name>Child</name>
+</ticketType>
+<ticketType ticketCode="GBCHUCO2D">
+<name>Unit CH Comp</name>
+</ticketType>
+<ticketType ticketCode="GBOSUCO2D">
+<name>Unit Student/Senior Comp</name>
+</ticketType>
+<ticketType ticketCode="GBOSSSCO2D">
+<name>BFBS Senior/Student Comp</name>
+</ticketType>
+<ticketType ticketCode="EURFAM2D">
+<name>Family</name>
+</ticketType>
+<ticketType ticketCode="EUCHUNCO2D">
+<name>Unit CH Comp</name>
+</ticketType>
+<ticketType ticketCode="EURCH2D">
+<name>Child</name>
+</ticketType>
+<ticketType ticketCode="GBFAM2D">
+<name>Family Ticket</name>
+</ticketType>
+<ticketType ticketCode="EUFTUNCO2D">
+<name>Unit FT Comp</name>
+</ticketType>
+<ticketType ticketCode="EUOSUNCO2D">
+<name>Unit Senior/Student Comp</name>
+</ticketType>
+<ticketType ticketCode="EURAD2D4">
+<name>
+<![CDATA[ Adult €4 ]]>
+</name>
+</ticketType>
+<ticketType ticketCode="CEA">
+<name>CEA Ticket</name>
+</ticketType>
+<ticketType ticketCode="STAFFFLK">
+<name>Staff</name>
+</ticketType>
+<ticketType ticketCode="EUADSSCO2D">
+<name>BFBS AD Comp</name>
+</ticketType>
+<ticketType ticketCode="EUCHSSCO2D">
+<name>BFBS CH Comp</name>
+</ticketType>
+<ticketType ticketCode="GBFTSSCO2D">
+<name>BFBS FT Comp</name>
+</ticketType>
+<ticketType ticketCode="EUOSSSCO2D">
+<name>BFBS Senior/Student Comp</name>
+</ticketType>
+</ticketTypes>
+</admitOne>
+
