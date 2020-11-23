@@ -7750,24 +7750,24 @@
 </site>
 </sites>
 <events>
-<event eventCode="54919">
-<name>BAAGHI 3</name>
-<length>143</length>
-<advertTime>0</advertTime>
-<leadupTime>0</leadupTime>
-<trailerTime>0</trailerTime>
-<cleanupTime>0</cleanupTime>
-<fls>0</fls>
-<rentrakCode>291446</rentrakCode>
-<synopsis>
-<![CDATA[
-Ronnie and Vikram are brothers who share an unbreakable bond. Their journey begins when a certain turn in events, leads Vikram to travel. On this trip, he gets kidnapped by people. Ronnie witnesses his brother getting beaten and kidnapped, Ronnie will do whatever it takes to destroy anyone and anything that stands in the way of Vikram's safety. Ronnie goes on a rampage of destruction to see his brother safe, even if it means that he independently has to take on an entire country.
-]]>
-</synopsis>
-<director>Ahmed Khan</director>
-<writer>Sajid Nadiadwala, Farhad Samji</writer>
-<releaseDate>19700101</releaseDate>
-<youTubeLink>https://www.youtube.com/watch?v=QzDujMzfoU</youTubeLink>
+  <event eventCode="54919">
+    <name>BAAGHI 3</name>
+    <length>143</length>
+    <advertTime>0</advertTime>
+    <leadupTime>0</leadupTime>
+    <trailerTime>0</trailerTime>
+    <cleanupTime>0</cleanupTime>
+    <fls>0</fls>
+    <rentrakCode>291446</rentrakCode>
+    <synopsis>
+      <![CDATA[
+      Ronnie and Vikram are brothers who share an unbreakable bond. Their journey begins when a certain turn in events, leads Vikram to travel. On this trip, he gets kidnapped by people. Ronnie witnesses his brother getting beaten and kidnapped, Ronnie will do whatever it takes to destroy anyone and anything that stands in the way of Vikram's safety. Ronnie goes on a rampage of destruction to see his brother safe, even if it means that he independently has to take on an entire country.
+      ]]>
+    </synopsis>
+    <director>Ahmed Khan</director>
+    <writer>Sajid Nadiadwala, Farhad Samji</writer>
+    <releaseDate>19700101</releaseDate>
+    <youTubeLink>https://www.youtube.com/watch?v=QzDujMzfoU</youTubeLink>
 <certificate>12A</certificate>
 <comingSoon>0</comingSoon>
 <imageSmall>
@@ -8924,4 +8924,3 @@ http://admit1.ssvc.com:8585/filmimages/large/52273.jpg
 </ticketType>
 </ticketTypes>
 </admitOne>
-
